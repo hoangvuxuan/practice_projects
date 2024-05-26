@@ -7,12 +7,8 @@
       "RelativeMoniker": "D:0:0:{4A28BAFD-26B1-4E2C-A301-BC73E37C2E8F}|craw_data_basic\\craw_data_basic.csproj|solutionrelative:craw_data_basic\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A28BAFD-26B1-4E2C-A301-BC73E37C2E8F}|craw_data_basic\\craw_data_basic.csproj|d:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4A28BAFD-26B1-4E2C-A301-BC73E37C2E8F}|craw_data_basic\\craw_data_basic.csproj|D:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4A28BAFD-26B1-4E2C-A301-BC73E37C2E8F}|craw_data_basic\\craw_data_basic.csproj|solutionrelative:craw_data_basic\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A28BAFD-26B1-4E2C-A301-BC73E37C2E8F}|craw_data_basic\\craw_data_basic.csproj|d:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\all_class\\menu_tree_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A28BAFD-26B1-4E2C-A301-BC73E37C2E8F}|craw_data_basic\\craw_data_basic.csproj|solutionrelative:craw_data_basic\\all_class\\menu_tree_item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Menu_Tree_Item.cs",
-              "DocumentMoniker": "D:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\all_class\\Menu_Tree_Item.cs",
-              "RelativeDocumentMoniker": "craw_data_basic\\all_class\\Menu_Tree_Item.cs",
-              "ToolTip": "D:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\all_class\\Menu_Tree_Item.cs",
-              "RelativeToolTip": "craw_data_basic\\all_class\\Menu_Tree_Item.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:02:46.737Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -46,8 +29,7 @@
               "ToolTip": "D:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\MainWindow.xaml",
               "RelativeToolTip": "craw_data_basic\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T17:46:49.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T17:46:49.136Z"
             },
             {
               "$type": "Document",
@@ -57,7 +39,7 @@
               "RelativeDocumentMoniker": "craw_data_basic\\MainWindow.xaml.cs",
               "ToolTip": "D:\\c#\\practice_project\\craw_data_basic\\craw_data_basic\\MainWindow.xaml.cs",
               "RelativeToolTip": "craw_data_basic\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAowEoAAAABAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwGIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T17:46:46.911Z",
               "EditorCaption": ""

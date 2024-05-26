@@ -18,7 +18,7 @@
         </Grid.RowDefinitions>
 
         <Grid Grid.Row="0" Grid.Column="0">
-            <Button>load data</Button>
+            <Button Click="Button_Click_1">load data</Button>
         </Grid>
 
         <Grid Grid.Row="0" Grid.Column="1">
@@ -36,7 +36,8 @@
             </TreeView.ItemTemplate>
         </TreeView>
 
-        <WebBrowser x:Name="web_browser" Grid.Row="1" Grid.Column="1" Source=""></WebBrowser>
+        <!--<WebBrowser x:Name="web_browser" Grid.Row="1" Grid.Column="1" Source=""></WebBrowser>-->
+        <TextBlock x:Name="web_browser" Grid.Row="1" Grid.Column="1" ></TextBlock>
 
     </Grid>
 </Window>
